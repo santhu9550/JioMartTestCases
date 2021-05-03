@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Suite">
+              <span class="suite-name border-passed">Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Suite">
+                    <span>C:\Users\santh\eclipse-workspace\JioMart\src\test\java\com\qa\Utilities\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">9 methods,   9 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(boost)">SearchTest(boost)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(maggi)">SearchTest(maggi)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(samsung)">SearchTest(samsung)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(sunfeast)">SearchTest(sunfeast)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(ghee)">SearchTest(ghee)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(@#4343##)">SearchTest(@#4343##)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(iphone)">SearchTest(iphone)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(dairy milk)">SearchTest(dairy milk)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.testCases.JioMartTestCases" hash-for-method="SearchTest(salt)">SearchTest(salt)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.qa.testCases.JioMartTestCases</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(boost)">
+                  </a> <!-- SearchTest(boost) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(boost)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(maggi)">
+                  </a> <!-- SearchTest(maggi) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(maggi)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(samsung)">
+                  </a> <!-- SearchTest(samsung) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(samsung)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(sunfeast)">
+                  </a> <!-- SearchTest(sunfeast) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(sunfeast)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(ghee)">
+                  </a> <!-- SearchTest(ghee) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(ghee)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(@#4343##)">
+                  </a> <!-- SearchTest(@#4343##) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(@#4343##)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(iphone)">
+                  </a> <!-- SearchTest(iphone) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(iphone)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(dairy milk)">
+                  </a> <!-- SearchTest(dairy milk) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(dairy milk)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(salt)">
+                  </a> <!-- SearchTest(salt) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(salt)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+        </div> <!-- panel Suite -->
+        <div panel-name="test-xml-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\santh\eclipse-workspace\JioMart\src\test\java\com\qa\Utilities\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.qa.Utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;jioMart&quot;&gt;
+    &lt;parameter name=&quot;pageUrl&quot; value=&quot;https://www.jiomart.com&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.qa.testCases.JioMartTestCases&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- jioMart --&gt;
+&lt;/suite&gt; &lt;!-- Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">jioMart (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Suite');
+function tableData_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(9);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'SearchTest')
+data.setCell(0, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(0, 3, 5474);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'SearchTest')
+data.setCell(1, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(1, 3, 5395);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'SearchTest')
+data.setCell(2, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(2, 3, 5346);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'SearchTest')
+data.setCell(3, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(3, 3, 5243);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'SearchTest')
+data.setCell(4, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(4, 3, 4782);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'SearchTest')
+data.setCell(5, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(5, 3, 4375);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'SearchTest')
+data.setCell(6, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(6, 3, 4134);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'SearchTest')
+data.setCell(7, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(7, 3, 3838);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'SearchTest')
+data.setCell(8, 2, 'com.qa.testCases.JioMartTestCases')
+data.setCell(8, 3, 3610);
+window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 42 seconds</span>
+              <div id="times-div-Suite">
+              </div> <!-- times-div-Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(boost)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Bournvita 750 g : ₹ 260.00</span>
+                <span class="reporter-method-output">price of Bournvita 200 g : ₹ 102.30</span>
+                <span class="reporter-method-output">price of Bournvita 75 g : ₹ 27.90</span>
+                <span class="reporter-method-output">price of Bournvita 1 kg : ₹ 360.00</span>
+                <span class="reporter-method-output">price of Bournvita 500 g : ₹ 207.39</span>
+                <span class="reporter-method-output">price of Women's Horlicks Caramel 400 g : ₹ 278.07</span>
+                <span class="reporter-method-output">price of Horlicks Classic Malt 200 g : ₹ 103.23</span>
+                <span class="reporter-method-output">price of Lifebuoy Total 10 Hand Sanitizer 50 ml : ₹ 23.25</span>
+                <span class="reporter-method-output">price of Himalaya Men Active Boost Pimple Clear Neem Face Wash 100 ml : ₹ 106.67</span>
+                <span class="reporter-method-output">price of Hersheys Milk Booster Chocolate Syrup 450 g : ₹ 186.00</span>
+                <span class="reporter-method-output">price of Horlicks Chocolate Delight 750 g : ₹ 257.00</span>
+                <span class="reporter-method-output">price of Dabur Chyawanprash With Awaleha 1 kg : ₹ 300.00</span>
+                <span class="reporter-method-output">price of Bournvita Five Star Magic Chocolate 750 g : ₹ 292.50</span>
+                <span class="reporter-method-output">price of Protinex Tasty Chocolate 250 g : ₹ 325.50</span>
+                <span class="reporter-method-output">price of Zandu Sona Chandi Chyawanplus 450 g : ₹ 167.40</span>
+                <span class="reporter-method-output">price of PediaSure Chocolate Health Drink Powder 400 g : ₹ 500.00</span>
+                <span class="reporter-method-output">price of Horlicks Chocolate Delight Health Drink Powder 1 kg : ₹ 305.00</span>
+                <span class="reporter-method-output">price of PediaSure Chocolate Health Drink Powder 200 g : ₹ 274.35</span>
+                <span class="reporter-method-output">price of Bournvita 5 Star Magic 500 g : ₹ 206.46</span>
+                <span class="reporter-method-output">price of Zandu Chavan Prashad 900 g : ₹ 340.00</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(maggi)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Maggi 2-Minute Masala Instant Noodles 70 g : ₹ 11.00</span>
+                <span class="reporter-method-output">price of Maggi 2-Minute Masala Instant Noodles 420 g : ₹ 61.00</span>
+                <span class="reporter-method-output">price of Maggi Nutri-licious Masala Instant Atta Noodles 290 g (Pouch) : ₹ 78.00</span>
+                <span class="reporter-method-output">price of Top Ramen New Masala Instant Noodles 420 g : ₹ 45.34</span>
+                <span class="reporter-method-output">price of Maggi Masala Ae Magic 6 g (Pack of 12) : ₹ 52.20</span>
+                <span class="reporter-method-output">price of Kissan Fresh Tomato Ketchup 950 g : ₹ 87.00</span>
+                <span class="reporter-method-output">price of Maggi 2-Minute Special Masala Instant Noodles 70 g : ₹ 13.95</span>
+                <span class="reporter-method-output">price of Snac tac Masala Instant Noodles 292 g : ₹ 35.00</span>
+                <span class="reporter-method-output">price of Ching's Secret Manchurian Instant Noodles 240 g : ₹ 37.00</span>
+                <span class="reporter-method-output">price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16</span>
+                <span class="reporter-method-output">price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00</span>
+                <span class="reporter-method-output">price of Maggi Nutri-licious Masala Instant Veg Atta Noodles 72.5 g : ₹ 20.46</span>
+                <span class="reporter-method-output">price of Maggi Fusian Hong Kong Spicy Garlic Instant Noodles 73 g (Pouch) : ₹ 18.60</span>
+                <span class="reporter-method-output">price of Maggi Rich Tomato Ketchup 1 kg : ₹ 113.95</span>
+                <span class="reporter-method-output">price of Maggi Cheesy Tomato Twist Instant Pazzta 64 g : ₹ 23.25</span>
+                <span class="reporter-method-output">price of Maggi Masala Instant Cuppa Noodles 70 g : ₹ 41.85</span>
+                <span class="reporter-method-output">price of Maggi Nutri-licious Masala Instant Oats Noodles 300 g : ₹ 91.14</span>
+                <span class="reporter-method-output">price of Maggi Masala Penne Instant Pazzta Family Saver Pack 130 g : ₹ 41.00</span>
+                <span class="reporter-method-output">price of Snactac Atta Instant Noodles 75 g : ₹ 12.50</span>
+                <span class="reporter-method-output">price of Ching's Secret Veg Hakka Noodles 150 g (Pouch) : ₹ 25.00</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(samsung)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">No Item Found</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(sunfeast)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Sunfeast Dark Fantasy Choco Fill Cookies 300 g : ₹ 80.00</span>
+                <span class="reporter-method-output">price of Britannia Classic Little Hearts Biscuits 75 g : ₹ 15.00</span>
+                <span class="reporter-method-output">price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34</span>
+                <span class="reporter-method-output">price of Sunfeast Dark Fantasy Bourbon Biscuits 150 g : ₹ 22.00</span>
+                <span class="reporter-method-output">price of Sunfeast Mom's Magic Cashew & Almond Biscuits 600 g : ₹ 75.00</span>
+                <span class="reporter-method-output">price of Britannia NutriChoice Hi-Fibre Digestive Biscuits 100 g : ₹ 17.00</span>
+                <span class="reporter-method-output">price of Parle-G Original Glucose Biscuits 800 g : ₹ 59.00</span>
+                <span class="reporter-method-output">price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16</span>
+                <span class="reporter-method-output">price of Britannia Good Day Cashew Cookies 100 g : ₹ 15.00</span>
+                <span class="reporter-method-output">price of Britannia Tiger Krunch Chocochips Biscuits Combo Pack 400 g : ₹ 50.00</span>
+                <span class="reporter-method-output">price of Britannia Good Day Choco Chip Cookies 100 g : ₹ 20.00</span>
+                <span class="reporter-method-output">price of Sunfeast Yippee Mood Masala Instant Noodles 260 g : ₹ 38.67</span>
+                <span class="reporter-method-output">price of Sunfeast Pasta Treat Instant Masala Pasta 70 g : ₹ 16.67</span>
+                <span class="reporter-method-output">price of Sunfeast Dark Fantasy Choco Chip Cookies 350 g : ₹ 80.00</span>
+                <span class="reporter-method-output">price of Sunfeast Yippee Power Up Masala Instant Atta Noodles 280 g : ₹ 72.54</span>
+                <span class="reporter-method-output">price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00</span>
+                <span class="reporter-method-output">price of Parle Platina Hide & Seek Chocolate Chip Cookies 350 g : ₹ 85.00</span>
+                <span class="reporter-method-output">price of Mcvitie's Digestive Biscuits 400 g : ₹ 45.34</span>
+                <span class="reporter-method-output">price of Britannia Bourbon The Original Cream Biscuits 120 g (Buy 4 Get 1) : ₹ 74.40</span>
+                <span class="reporter-method-output">price of Cadbury Oreo Original Vanilla Creme Biscuits 120 g : ₹ 27.00</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(ghee)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Amul Pure Ghee 1 L (Pouch) : ₹ 444.00</span>
+                <span class="reporter-method-output">price of Amul Pure Ghee 500 ml (Pouch) : ₹ 227.85</span>
+                <span class="reporter-method-output">price of Gowardhan Pure Cow Ghee 1 L (Pouch) : ₹ 499.00</span>
+                <span class="reporter-method-output">price of Amul Cow Ghee 1 L (Pouch) : ₹ 465.00</span>
+                <span class="reporter-method-output">price of Amul Cow Ghee 500 ml (Pouch) : ₹ 241.80</span>
+                <span class="reporter-method-output">price of Dalda Vanaspati 1 L : ₹ 161.00</span>
+                <span class="reporter-method-output">price of Dalda Vanaspati 500 ml : ₹ 81.00</span>
+                <span class="reporter-method-output">price of Dalda Vanaspati Oil 200 ml : ₹ 34.00</span>
+                <span class="reporter-method-output">price of Deccan Organic Groundnut Oil 1 L : ₹ 325.50</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(@#4343##)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">No Item Found</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(iphone)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">No Item Found</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(dairy milk)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Home Treats Minis 126 g : ₹ 99.34</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 36 g : ₹ 39.00</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Roast Almond Chocolate 36 g : ₹ 39.00</span>
+                <span class="reporter-method-output">price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34</span>
+                <span class="reporter-method-output">price of Snickers Chocolate Bar 50 g : ₹ 30.00</span>
+                <span class="reporter-method-output">price of Nestle Munch Wafer Chocolate Bar 202 g (Share Pack) : ₹ 77.00</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Silk Oreo Chocolate Bar 130 g : ₹ 157.50</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Home Treats Silk Chocolate Bar 194 g : ₹ 186.00</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Lickables Chocolate 20 g : ₹ 41.85</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 80 g : ₹ 83.70</span>
+                <span class="reporter-method-output">price of Cadbury Dairy Milk Silk Roast Almond Chocolate Bar 58 g : ₹ 74.40</span>
+                <span class="reporter-method-output">price of Hersheys Kisses Milk Chocolate 36 g : ₹ 45.00</span>
+                <span class="reporter-method-output">price of Cadbury Fuse Home Treats 170.5 g : ₹ 138.57</span>
+                <span class="reporter-method-output">price of Hersheys Cookies N Cream Kisses 100.8 g : ₹ 93.34</span>
+                <span class="reporter-method-output">price of Brookside Pomegranate Flavoured Center Chocolate 100 g : ₹ 100.00</span>
+                <span class="reporter-method-output">price of Brookside Raspberry & Goji Flavoured Center Chocolate 100 g : ₹ 100.00</span>
+                <span class="reporter-method-output">price of Cadbury Gems Surprise Ball With Toy 17.8 g : ₹ 33.75</span>
+                <span class="reporter-method-output">price of Cadbury 5 Star Chocolate Bar 40 g : ₹ 18.60</span>
+                <span class="reporter-method-output">price of Cadbury Gold Choclairs 142 g : ₹ 45.00</span>
+                <span class="reporter-method-output">price of Snickers Almond Chocolate Bar 45 g : ₹ 46.50</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(salt)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">price of Tata Iodised Salt 1 kg : ₹ 18.00</span>
+                <span class="reporter-method-output">price of Good Life Free Flow Iodised Salt 1 kg : ₹ 10.00</span>
+                <span class="reporter-method-output">price of Tata Lite Low Sodium Salt 1 kg : ₹ 35.00</span>
+                <span class="reporter-method-output">price of Aashirvaad Iodised Salt 1 kg : ₹ 18.00</span>
+                <span class="reporter-method-output">price of Amul Butter 100 g (Carton) : ₹ 46.56</span>
+                <span class="reporter-method-output">price of Dr. Brand Rock Salt 1 kg : ₹ 79.00</span>
+                <span class="reporter-method-output">price of Puro Healthy Salt 1 kg : ₹ 99.00</span>
+                <span class="reporter-method-output">price of Eno Lemon Flavour Fruit Salt 5 g (Pack of 6) : ₹ 50.22</span>
+                <span class="reporter-method-output">price of Loose Sugar (M) 1 kg : ₹ 42.00</span>
+                <span class="reporter-method-output">price of Dr. Brand Black Salt 200 g : ₹ 18.00</span>
+                <span class="reporter-method-output">price of Parle Monaco Salted Biscuits 200 g : ₹ 27.90</span>
+                <span class="reporter-method-output">price of Parle Krack Jack Crackers 200 g : ₹ 27.90</span>
+                <span class="reporter-method-output">price of Tata I-Shakti Cooking Soda 100 g : ₹ 13.50</span>
+                <span class="reporter-method-output">price of Parle Monaco Classic Regular Salted Biscuits 400 g : ₹ 45.00</span>
+                <span class="reporter-method-output">price of Parle Krack Jack Crackers 400 g : ₹ 45.00</span>
+                <span class="reporter-method-output">price of Catch Sprinkler Table Salt 100 g : ₹ 21.00</span>
+                <span class="reporter-method-output">price of Pro Nature Himalayan Pink Salt 500 g : ₹ 61.38</span>
+                <span class="reporter-method-output">price of Organic Tattva Natural Rock Salt 500 g : ₹ 33.75</span>
+                <span class="reporter-method-output">price of Deccan Organic Rock Salt 500 g : ₹ 30.00</span>
+                <span class="reporter-method-output">price of Deccan Organic Himalayan Pink Salt 1 kg : ₹ 65.00</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.qa.testCases.JioMartTestCases</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Setup(chrome, https://www.jiomart.com)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(maggi)</span>
+                <span class="method-start">7830 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(boost)</span>
+                <span class="method-start">13092 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(dairy milk)</span>
+                <span class="method-start">18489 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(ghee)</span>
+                <span class="method-start">23837 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(salt)</span>
+                <span class="method-start">27678 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(sunfeast)</span>
+                <span class="method-start">32462 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(iphone)</span>
+                <span class="method-start">37938 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(samsung)</span>
+                <span class="method-start">42074 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(@#4343##)</span>
+                <span class="method-start">45687 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">TearDown</span>
+                <span class="method-start">50065 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

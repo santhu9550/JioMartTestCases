@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+ <listener class-name="com.qa.Utilities.Reporting"/>
+ </listeners>
+   <parameter name="browser" value="chrome" />
+
+   <test thread-count="5" name="jioMart" >
+    <parameter name="pageUrl" value="https://www.jiomart.com" />
+    <classes>
+      <class name="com.qa.testCases.JioMartTestCases"/>
+    </classes>
+  </test>
+  
+  
+</suite> <!-- Suite -->

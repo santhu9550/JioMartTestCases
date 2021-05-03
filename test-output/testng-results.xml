@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[price of Maggi 2-Minute Masala Instant Noodles 70 g : ₹ 11.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi 2-Minute Masala Instant Noodles 420 g : ₹ 61.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Nutri-licious Masala Instant Atta Noodles 290 g (Pouch) : ₹ 78.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Top Ramen New Masala Instant Noodles 420 g : ₹ 45.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Masala Ae Magic 6 g (Pack of 12) : ₹ 52.20]]>
+    </line>
+    <line>
+      <![CDATA[price of Kissan Fresh Tomato Ketchup 950 g : ₹ 87.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi 2-Minute Special Masala Instant Noodles 70 g : ₹ 13.95]]>
+    </line>
+    <line>
+      <![CDATA[price of Snac tac Masala Instant Noodles 292 g : ₹ 35.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Ching's Secret Manchurian Instant Noodles 240 g : ₹ 37.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16]]>
+    </line>
+    <line>
+      <![CDATA[price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Nutri-licious Masala Instant Veg Atta Noodles 72.5 g : ₹ 20.46]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Fusian Hong Kong Spicy Garlic Instant Noodles 73 g (Pouch) : ₹ 18.60]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Rich Tomato Ketchup 1 kg : ₹ 113.95]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Cheesy Tomato Twist Instant Pazzta 64 g : ₹ 23.25]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Masala Instant Cuppa Noodles 70 g : ₹ 41.85]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Nutri-licious Masala Instant Oats Noodles 300 g : ₹ 91.14]]>
+    </line>
+    <line>
+      <![CDATA[price of Maggi Masala Penne Instant Pazzta Family Saver Pack 130 g : ₹ 41.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Snactac Atta Instant Noodles 75 g : ₹ 12.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Ching's Secret Veg Hakka Noodles 150 g (Pouch) : ₹ 25.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 750 g : ₹ 260.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 200 g : ₹ 102.30]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 75 g : ₹ 27.90]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 1 kg : ₹ 360.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 500 g : ₹ 207.39]]>
+    </line>
+    <line>
+      <![CDATA[price of Women's Horlicks Caramel 400 g : ₹ 278.07]]>
+    </line>
+    <line>
+      <![CDATA[price of Horlicks Classic Malt 200 g : ₹ 103.23]]>
+    </line>
+    <line>
+      <![CDATA[price of Lifebuoy Total 10 Hand Sanitizer 50 ml : ₹ 23.25]]>
+    </line>
+    <line>
+      <![CDATA[price of Himalaya Men Active Boost Pimple Clear Neem Face Wash 100 ml : ₹ 106.67]]>
+    </line>
+    <line>
+      <![CDATA[price of Hersheys Milk Booster Chocolate Syrup 450 g : ₹ 186.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Horlicks Chocolate Delight 750 g : ₹ 257.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Dabur Chyawanprash With Awaleha 1 kg : ₹ 300.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita Five Star Magic Chocolate 750 g : ₹ 292.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Protinex Tasty Chocolate 250 g : ₹ 325.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Zandu Sona Chandi Chyawanplus 450 g : ₹ 167.40]]>
+    </line>
+    <line>
+      <![CDATA[price of PediaSure Chocolate Health Drink Powder 400 g : ₹ 500.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Horlicks Chocolate Delight Health Drink Powder 1 kg : ₹ 305.00]]>
+    </line>
+    <line>
+      <![CDATA[price of PediaSure Chocolate Health Drink Powder 200 g : ₹ 274.35]]>
+    </line>
+    <line>
+      <![CDATA[price of Bournvita 5 Star Magic 500 g : ₹ 206.46]]>
+    </line>
+    <line>
+      <![CDATA[price of Zandu Chavan Prashad 900 g : ₹ 340.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Home Treats Minis 126 g : ₹ 99.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 36 g : ₹ 39.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Roast Almond Chocolate 36 g : ₹ 39.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Snickers Chocolate Bar 50 g : ₹ 30.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Nestle Munch Wafer Chocolate Bar 202 g (Share Pack) : ₹ 77.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Silk Oreo Chocolate Bar 130 g : ₹ 157.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Home Treats Silk Chocolate Bar 194 g : ₹ 186.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Lickables Chocolate 20 g : ₹ 41.85]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 80 g : ₹ 83.70]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Dairy Milk Silk Roast Almond Chocolate Bar 58 g : ₹ 74.40]]>
+    </line>
+    <line>
+      <![CDATA[price of Hersheys Kisses Milk Chocolate 36 g : ₹ 45.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Fuse Home Treats 170.5 g : ₹ 138.57]]>
+    </line>
+    <line>
+      <![CDATA[price of Hersheys Cookies N Cream Kisses 100.8 g : ₹ 93.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Brookside Pomegranate Flavoured Center Chocolate 100 g : ₹ 100.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Brookside Raspberry & Goji Flavoured Center Chocolate 100 g : ₹ 100.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Gems Surprise Ball With Toy 17.8 g : ₹ 33.75]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury 5 Star Chocolate Bar 40 g : ₹ 18.60]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Gold Choclairs 142 g : ₹ 45.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Snickers Almond Chocolate Bar 45 g : ₹ 46.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Amul Pure Ghee 1 L (Pouch) : ₹ 444.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Amul Pure Ghee 500 ml (Pouch) : ₹ 227.85]]>
+    </line>
+    <line>
+      <![CDATA[price of Gowardhan Pure Cow Ghee 1 L (Pouch) : ₹ 499.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Amul Cow Ghee 1 L (Pouch) : ₹ 465.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Amul Cow Ghee 500 ml (Pouch) : ₹ 241.80]]>
+    </line>
+    <line>
+      <![CDATA[price of Dalda Vanaspati 1 L : ₹ 161.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Dalda Vanaspati 500 ml : ₹ 81.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Dalda Vanaspati Oil 200 ml : ₹ 34.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Deccan Organic Groundnut Oil 1 L : ₹ 325.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Tata Iodised Salt 1 kg : ₹ 18.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Good Life Free Flow Iodised Salt 1 kg : ₹ 10.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Tata Lite Low Sodium Salt 1 kg : ₹ 35.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Aashirvaad Iodised Salt 1 kg : ₹ 18.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Amul Butter 100 g (Carton) : ₹ 46.56]]>
+    </line>
+    <line>
+      <![CDATA[price of Dr. Brand Rock Salt 1 kg : ₹ 79.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Puro Healthy Salt 1 kg : ₹ 99.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Eno Lemon Flavour Fruit Salt 5 g (Pack of 6) : ₹ 50.22]]>
+    </line>
+    <line>
+      <![CDATA[price of Loose Sugar (M) 1 kg : ₹ 42.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Dr. Brand Black Salt 200 g : ₹ 18.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle Monaco Salted Biscuits 200 g : ₹ 27.90]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle Krack Jack Crackers 200 g : ₹ 27.90]]>
+    </line>
+    <line>
+      <![CDATA[price of Tata I-Shakti Cooking Soda 100 g : ₹ 13.50]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle Monaco Classic Regular Salted Biscuits 400 g : ₹ 45.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle Krack Jack Crackers 400 g : ₹ 45.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Catch Sprinkler Table Salt 100 g : ₹ 21.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Pro Nature Himalayan Pink Salt 500 g : ₹ 61.38]]>
+    </line>
+    <line>
+      <![CDATA[price of Organic Tattva Natural Rock Salt 500 g : ₹ 33.75]]>
+    </line>
+    <line>
+      <![CDATA[price of Deccan Organic Rock Salt 500 g : ₹ 30.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Deccan Organic Himalayan Pink Salt 1 kg : ₹ 65.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Dark Fantasy Choco Fill Cookies 300 g : ₹ 80.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia Classic Little Hearts Biscuits 75 g : ₹ 15.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Dark Fantasy Bourbon Biscuits 150 g : ₹ 22.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Mom's Magic Cashew & Almond Biscuits 600 g : ₹ 75.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia NutriChoice Hi-Fibre Digestive Biscuits 100 g : ₹ 17.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle-G Original Glucose Biscuits 800 g : ₹ 59.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia Good Day Cashew Cookies 100 g : ₹ 15.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia Tiger Krunch Chocochips Biscuits Combo Pack 400 g : ₹ 50.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia Good Day Choco Chip Cookies 100 g : ₹ 20.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Yippee Mood Masala Instant Noodles 260 g : ₹ 38.67]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Pasta Treat Instant Masala Pasta 70 g : ₹ 16.67]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Dark Fantasy Choco Chip Cookies 350 g : ₹ 80.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Sunfeast Yippee Power Up Masala Instant Atta Noodles 280 g : ₹ 72.54]]>
+    </line>
+    <line>
+      <![CDATA[price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Parle Platina Hide & Seek Chocolate Chip Cookies 350 g : ₹ 85.00]]>
+    </line>
+    <line>
+      <![CDATA[price of Mcvitie's Digestive Biscuits 400 g : ₹ 45.34]]>
+    </line>
+    <line>
+      <![CDATA[price of Britannia Bourbon The Original Cream Biscuits 120 g (Buy 4 Get 1) : ₹ 74.40]]>
+    </line>
+    <line>
+      <![CDATA[price of Cadbury Oreo Original Vanilla Creme Biscuits 120 g : ₹ 27.00]]>
+    </line>
+    <line>
+      <![CDATA[No Item Found]]>
+    </line>
+    <line>
+      <![CDATA[No Item Found]]>
+    </line>
+    <line>
+      <![CDATA[No Item Found]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54514" started-at="2021-05-03T13:18:05Z" finished-at="2021-05-03T13:18:59Z">
+    <groups>
+    </groups>
+    <test name="jioMart" duration-ms="54514" started-at="2021-05-03T13:18:05Z" finished-at="2021-05-03T13:18:59Z">
+      <class name="com.qa.testCases.JioMartTestCases">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="Setup" is-config="true" duration-ms="6092" started-at="2021-05-03T13:18:05Z" finished-at="2021-05-03T13:18:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.jiomart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="5243" started-at="2021-05-03T13:18:13Z" data-provider="getData" finished-at="2021-05-03T13:18:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maggi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Maggi 2-Minute Masala Instant Noodles 70 g : ₹ 11.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi 2-Minute Masala Instant Noodles 420 g : ₹ 61.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Nutri-licious Masala Instant Atta Noodles 290 g (Pouch) : ₹ 78.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Top Ramen New Masala Instant Noodles 420 g : ₹ 45.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Masala Ae Magic 6 g (Pack of 12) : ₹ 52.20]]>
+            </line>
+            <line>
+              <![CDATA[price of Kissan Fresh Tomato Ketchup 950 g : ₹ 87.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi 2-Minute Special Masala Instant Noodles 70 g : ₹ 13.95]]>
+            </line>
+            <line>
+              <![CDATA[price of Snac tac Masala Instant Noodles 292 g : ₹ 35.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Ching's Secret Manchurian Instant Noodles 240 g : ₹ 37.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16]]>
+            </line>
+            <line>
+              <![CDATA[price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Nutri-licious Masala Instant Veg Atta Noodles 72.5 g : ₹ 20.46]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Fusian Hong Kong Spicy Garlic Instant Noodles 73 g (Pouch) : ₹ 18.60]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Rich Tomato Ketchup 1 kg : ₹ 113.95]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Cheesy Tomato Twist Instant Pazzta 64 g : ₹ 23.25]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Masala Instant Cuppa Noodles 70 g : ₹ 41.85]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Nutri-licious Masala Instant Oats Noodles 300 g : ₹ 91.14]]>
+            </line>
+            <line>
+              <![CDATA[price of Maggi Masala Penne Instant Pazzta Family Saver Pack 130 g : ₹ 41.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Snactac Atta Instant Noodles 75 g : ₹ 12.50]]>
+            </line>
+            <line>
+              <![CDATA[price of Ching's Secret Veg Hakka Noodles 150 g (Pouch) : ₹ 25.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="5395" started-at="2021-05-03T13:18:18Z" data-provider="getData" finished-at="2021-05-03T13:18:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[boost]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Bournvita 750 g : ₹ 260.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita 200 g : ₹ 102.30]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita 75 g : ₹ 27.90]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita 1 kg : ₹ 360.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita 500 g : ₹ 207.39]]>
+            </line>
+            <line>
+              <![CDATA[price of Women's Horlicks Caramel 400 g : ₹ 278.07]]>
+            </line>
+            <line>
+              <![CDATA[price of Horlicks Classic Malt 200 g : ₹ 103.23]]>
+            </line>
+            <line>
+              <![CDATA[price of Lifebuoy Total 10 Hand Sanitizer 50 ml : ₹ 23.25]]>
+            </line>
+            <line>
+              <![CDATA[price of Himalaya Men Active Boost Pimple Clear Neem Face Wash 100 ml : ₹ 106.67]]>
+            </line>
+            <line>
+              <![CDATA[price of Hersheys Milk Booster Chocolate Syrup 450 g : ₹ 186.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Horlicks Chocolate Delight 750 g : ₹ 257.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Dabur Chyawanprash With Awaleha 1 kg : ₹ 300.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita Five Star Magic Chocolate 750 g : ₹ 292.50]]>
+            </line>
+            <line>
+              <![CDATA[price of Protinex Tasty Chocolate 250 g : ₹ 325.50]]>
+            </line>
+            <line>
+              <![CDATA[price of Zandu Sona Chandi Chyawanplus 450 g : ₹ 167.40]]>
+            </line>
+            <line>
+              <![CDATA[price of PediaSure Chocolate Health Drink Powder 400 g : ₹ 500.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Horlicks Chocolate Delight Health Drink Powder 1 kg : ₹ 305.00]]>
+            </line>
+            <line>
+              <![CDATA[price of PediaSure Chocolate Health Drink Powder 200 g : ₹ 274.35]]>
+            </line>
+            <line>
+              <![CDATA[price of Bournvita 5 Star Magic 500 g : ₹ 206.46]]>
+            </line>
+            <line>
+              <![CDATA[price of Zandu Chavan Prashad 900 g : ₹ 340.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="5346" started-at="2021-05-03T13:18:23Z" data-provider="getData" finished-at="2021-05-03T13:18:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dairy milk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Home Treats Minis 126 g : ₹ 99.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 36 g : ₹ 39.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Roast Almond Chocolate 36 g : ₹ 39.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Snickers Chocolate Bar 50 g : ₹ 30.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Nestle Munch Wafer Chocolate Bar 202 g (Share Pack) : ₹ 77.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Silk Oreo Chocolate Bar 130 g : ₹ 157.50]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Home Treats Silk Chocolate Bar 194 g : ₹ 186.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Lickables Chocolate 20 g : ₹ 41.85]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Fruit & Nut Chocolate Bar 80 g : ₹ 83.70]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Dairy Milk Silk Roast Almond Chocolate Bar 58 g : ₹ 74.40]]>
+            </line>
+            <line>
+              <![CDATA[price of Hersheys Kisses Milk Chocolate 36 g : ₹ 45.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Fuse Home Treats 170.5 g : ₹ 138.57]]>
+            </line>
+            <line>
+              <![CDATA[price of Hersheys Cookies N Cream Kisses 100.8 g : ₹ 93.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Brookside Pomegranate Flavoured Center Chocolate 100 g : ₹ 100.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Brookside Raspberry & Goji Flavoured Center Chocolate 100 g : ₹ 100.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Gems Surprise Ball With Toy 17.8 g : ₹ 33.75]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury 5 Star Chocolate Bar 40 g : ₹ 18.60]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Gold Choclairs 142 g : ₹ 45.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Snickers Almond Chocolate Bar 45 g : ₹ 46.50]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="3838" started-at="2021-05-03T13:18:29Z" data-provider="getData" finished-at="2021-05-03T13:18:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Amul Pure Ghee 1 L (Pouch) : ₹ 444.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Amul Pure Ghee 500 ml (Pouch) : ₹ 227.85]]>
+            </line>
+            <line>
+              <![CDATA[price of Gowardhan Pure Cow Ghee 1 L (Pouch) : ₹ 499.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Amul Cow Ghee 1 L (Pouch) : ₹ 465.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Amul Cow Ghee 500 ml (Pouch) : ₹ 241.80]]>
+            </line>
+            <line>
+              <![CDATA[price of Dalda Vanaspati 1 L : ₹ 161.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Dalda Vanaspati 500 ml : ₹ 81.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Dalda Vanaspati Oil 200 ml : ₹ 34.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Deccan Organic Groundnut Oil 1 L : ₹ 325.50]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="4782" started-at="2021-05-03T13:18:33Z" data-provider="getData" finished-at="2021-05-03T13:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Tata Iodised Salt 1 kg : ₹ 18.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Good Life Free Flow Iodised Salt 1 kg : ₹ 10.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Tata Lite Low Sodium Salt 1 kg : ₹ 35.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Aashirvaad Iodised Salt 1 kg : ₹ 18.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Amul Butter 100 g (Carton) : ₹ 46.56]]>
+            </line>
+            <line>
+              <![CDATA[price of Dr. Brand Rock Salt 1 kg : ₹ 79.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Puro Healthy Salt 1 kg : ₹ 99.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Eno Lemon Flavour Fruit Salt 5 g (Pack of 6) : ₹ 50.22]]>
+            </line>
+            <line>
+              <![CDATA[price of Loose Sugar (M) 1 kg : ₹ 42.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Dr. Brand Black Salt 200 g : ₹ 18.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle Monaco Salted Biscuits 200 g : ₹ 27.90]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle Krack Jack Crackers 200 g : ₹ 27.90]]>
+            </line>
+            <line>
+              <![CDATA[price of Tata I-Shakti Cooking Soda 100 g : ₹ 13.50]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle Monaco Classic Regular Salted Biscuits 400 g : ₹ 45.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle Krack Jack Crackers 400 g : ₹ 45.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Catch Sprinkler Table Salt 100 g : ₹ 21.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Pro Nature Himalayan Pink Salt 500 g : ₹ 61.38]]>
+            </line>
+            <line>
+              <![CDATA[price of Organic Tattva Natural Rock Salt 500 g : ₹ 33.75]]>
+            </line>
+            <line>
+              <![CDATA[price of Deccan Organic Rock Salt 500 g : ₹ 30.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Deccan Organic Himalayan Pink Salt 1 kg : ₹ 65.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="5474" started-at="2021-05-03T13:18:37Z" data-provider="getData" finished-at="2021-05-03T13:18:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sunfeast]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[price of Sunfeast Dark Fantasy Choco Fill Cookies 300 g : ₹ 80.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia Classic Little Hearts Biscuits 75 g : ₹ 15.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Lotte Choco Pie Creamfilled Biscuit 336 g : ₹ 93.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Dark Fantasy Bourbon Biscuits 150 g : ₹ 22.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Mom's Magic Cashew & Almond Biscuits 600 g : ₹ 75.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia NutriChoice Hi-Fibre Digestive Biscuits 100 g : ₹ 17.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle-G Original Glucose Biscuits 800 g : ₹ 59.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Yippee Magic Masala Instant Noodles 60 g : ₹ 11.16]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia Good Day Cashew Cookies 100 g : ₹ 15.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia Tiger Krunch Chocochips Biscuits Combo Pack 400 g : ₹ 50.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia Good Day Choco Chip Cookies 100 g : ₹ 20.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Yippee Mood Masala Instant Noodles 260 g : ₹ 38.67]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Pasta Treat Instant Masala Pasta 70 g : ₹ 16.67]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Dark Fantasy Choco Chip Cookies 350 g : ₹ 80.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Sunfeast Yippee Power Up Masala Instant Atta Noodles 280 g : ₹ 72.54]]>
+            </line>
+            <line>
+              <![CDATA[price of Ching's Secret Hot Garlic Instant Noodles 240 g : ₹ 39.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Parle Platina Hide & Seek Chocolate Chip Cookies 350 g : ₹ 85.00]]>
+            </line>
+            <line>
+              <![CDATA[price of Mcvitie's Digestive Biscuits 400 g : ₹ 45.34]]>
+            </line>
+            <line>
+              <![CDATA[price of Britannia Bourbon The Original Cream Biscuits 120 g (Buy 4 Get 1) : ₹ 74.40]]>
+            </line>
+            <line>
+              <![CDATA[price of Cadbury Oreo Original Vanilla Creme Biscuits 120 g : ₹ 27.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="4134" started-at="2021-05-03T13:18:43Z" data-provider="getData" finished-at="2021-05-03T13:18:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[No Item Found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="3610" started-at="2021-05-03T13:18:47Z" data-provider="getData" finished-at="2021-05-03T13:18:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[No Item Found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="SearchTest" duration-ms="4375" started-at="2021-05-03T13:18:51Z" data-provider="getData" finished-at="2021-05-03T13:18:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#4343##]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[No Item Found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.testCases.JioMartTestCases@3e694b3f]" name="TearDown" is-config="true" duration-ms="4217" started-at="2021-05-03T13:18:55Z" finished-at="2021-05-03T13:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.testCases.JioMartTestCases -->
+    </test> <!-- jioMart -->
+  </suite> <!-- Suite -->
+</testng-results>
